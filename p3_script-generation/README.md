@@ -1,5 +1,6 @@
 # Udacity Deep Learning Nanodegree - Project 3: TV Script Generation
 RNN TV script generation model with LSTM and Word2Vec components. Project 3 of Udacity's Deep Learning Nanodegree
+
 Original repository: https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-tv-script-generation
 
 ### Introduction
