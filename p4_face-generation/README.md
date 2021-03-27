@@ -1,5 +1,6 @@
 # Udacity Deep Learning Nanodegree - Project 4: Face Generation
 Human face generation with DC-GAN architecture and Celebra dataset. Project 4 of Udacity's Deep Learning Nanodegree
+
 Original repository: https://github.com/udacity/deep-learning-v2-pytorch/tree/master/project-face-generation
 
 ### Introduction
